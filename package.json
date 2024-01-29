@@ -1,8 +1,8 @@
 {
-  "name": "ivbs",
+  "name": "colibri5-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shervn.github.io/ivbs",
+  "homepage": "https://shervn.github.io/colibri5-page",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
@@ -21,7 +21,6 @@
     "eject": "react-scripts eject",
     "postinstall": "semantic-ui-css-patch",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": [
