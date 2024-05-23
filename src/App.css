@@ -38,3 +38,10 @@
 .App-link {
   color: #61dafb;
 }
+
+
+.segmentHeader{
+  margin: 50%;
+  padding: auto;
+  color: red;
+}
