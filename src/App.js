@@ -12,7 +12,7 @@ function App() {
           <Label color='blue' as='a' href="mailto:shervin.dehghani[at]tum.de">
             <Icon name='mail' /> shervin.dehghani@tum.de
           </Label>
-          <Label color='red' as='a' href="">
+          <Label color='red' as='a' href="https://ieeexplore.ieee.org/abstract/document/10610576">
             <Icon name='copy' /> Paper
           </Label>
           <Label color='grey' as='a' href="https://github.com/shervn/5dof-trocar-pose-dataset">
